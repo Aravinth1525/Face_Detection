@@ -1,6 +1,8 @@
 # CSI 1006 - MINIPROJECT
 
-### STEP 2 - Building on our previous work, we have developed a sophisticated face detection system that leverages the latest advances in AI and computer vision.
+### STEP 2 - Face Detection
+
+Building on our previous work, we have developed a sophisticated face detection system that leverages the latest advances in AI and computer vision.
 
 ### Step 3 - [Face Verification](https://github.com/Aravinth1525/Face_Recognition_GUI)
 
